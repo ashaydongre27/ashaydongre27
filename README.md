@@ -119,14 +119,7 @@ Here are some projects I am proud of:
 
 ---
 
-## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashaydongre27&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashaydongre27&theme=radical" alt="GitHub Streak" height="165"/>
-</p>
-
----
 
 ## Connect with me
 
