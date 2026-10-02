@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/ashaydongre27">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Data+Scientist+%7C+AI+Engineer;Fine-tuning+LLMs+%26+Building+ML+Pipelines;Turning+Messy+Data+into+Real+Insights;Web+Development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Data+Scientist+%7C+AI+Engineer;Fine-tuning+LLMs+%7C+Building+ML+Pipelines;Turning+Messy+Data+into+Real+Insights;Web+Development" alt="Typing SVG" />
   </a>
 </p>
 
